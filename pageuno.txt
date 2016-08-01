@@ -7,7 +7,8 @@
 
 	<h1>Hello World</h1>
 
-<p>parrafo de prueba de aqui.</>
+<p>parrafo de prueba de aqui.</p>
+<p>parrafo dos de prueba </p>
 
 </body>
 
